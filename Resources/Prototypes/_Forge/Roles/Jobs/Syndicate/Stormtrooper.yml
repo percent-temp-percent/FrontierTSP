@@ -41,6 +41,7 @@
     belt: ClothingBeltAssault
     pocket1: NFWeaponPistolPollock
     mask: ClothingMaskGasSwat
+    wallet: ClothingWalletLeatherSyndi
   storage:
     back:
     - NFBoxSurvivalExtended

@@ -39,6 +39,7 @@
     belt: ClothingBeltSheathSyndicateFilled
     pocket1: NFWeaponPistolCobra
     mask: ClothingMaskGasSwat
+    wallet: ClothingWalletLeatherSyndi
   storage:
     back:
     - NFBoxSurvivalExtended

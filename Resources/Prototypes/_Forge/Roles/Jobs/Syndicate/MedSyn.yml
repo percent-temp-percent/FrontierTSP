@@ -43,6 +43,7 @@
     pocket1: NFWeaponPistolViper
     pocket2: ToolboxMedic
     mask: ClothingMaskNeckGaiterRed
+    wallet: ClothingWalletLeatherSyndi
   storage:
     back:
     - NFBoxSurvivalExtended
