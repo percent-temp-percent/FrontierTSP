@@ -24,6 +24,19 @@
   categories:
   - UplinkWeaponrySmugger
 
+- type: listing
+  id: SmuggerUplinkNFWeaponPistolAnaconda45
+  name: uplink-pistol-anaconda-name
+  description: uplink-pistol-anaconda-desc
+  productEntity: NFWeaponPistolAnaconda45
+  discountCategory: rareDiscounts
+  discountDownTo:
+    TelecrystalDamaged: 15
+  cost:
+    TelecrystalDamaged: 24
+  categories:
+  - UplinkWeaponrySmugger
+
 # Inbuilt suppressor so it's sneaky + more expensive.
 - type: listing
   id: SmuggerUplinkPistolCobra

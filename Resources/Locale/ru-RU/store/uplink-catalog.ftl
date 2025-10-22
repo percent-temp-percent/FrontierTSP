@@ -1,4 +1,8 @@
 # Weapons
+uplink-convert-telecrystal-name = Конвертация
+uplink-convert-telecrystal-desc = Конвертируйте ваши кредиты в Телекристаллы.
+uplink-pistol-anaconda-name = "Анаконда"
+uplink-pistol-anaconda-desc = Тяжелый пистолет, способный самостоятельно запасаться боеприпасами в пути с помощью встроенного устройства для изготовления.
 uplink-pistol-viper-name = Гадюка
 uplink-pistol-viper-desc = Небольшой, легко скрываемый, но маломощный пистолет. Оснащён полностью автоматическим ресивером. Использует патроны калибра .35 авто.
 uplink-revolver-python-name = Питон
