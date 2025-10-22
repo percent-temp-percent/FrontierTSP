@@ -69,7 +69,7 @@
   name: reagent-name-sheleg-blood
   group: Biological
   desc: reagent-desc-sheleg-blood
-  flavor: Ice
+  flavor: iceblood
   color: "#002f55"
   recognizable: true
   physicalDesc: reagent-physical-desc-frosty
