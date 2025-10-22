@@ -1307,3 +1307,13 @@
     blacklist:
       components:
       - SurplusBundle
+
+- type: listing
+  id: ContractorUplinkPowerCellDCN
+  name: uplink-PowerCellDCN-name
+  description: uplink-PowerCellDCN-desc
+  productEntity: PowerCellDCN
+  cost:
+    Telecrystal: 12
+  categories:
+  - ContractorUplinkWearables
