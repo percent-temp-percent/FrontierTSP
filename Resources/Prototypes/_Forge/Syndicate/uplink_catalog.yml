@@ -629,7 +629,6 @@
   id: SmuggerUplinkNFMagazinePistol45
   name: uplink-pistol-magazine-name
   description: uplink-pistol-magazine-desc
-  icon: { sprite: /Textures/_NF/Objects/Weapons/Guns/Ammunition/Magazine/Pistol45/smg_mag.rsi, state: base }
   productEntity: NFMagazinePistol45
   cost:
     TelecrystalDamaged: 1
@@ -2245,10 +2244,10 @@
   - UplinkWearablesSmugger
 
 - type: listing
-  id: SmuggerUplinkgMechGygaxSyndieBattery
+  id: SmuggerUplinkgMechGygaxSyndieFilled
   name: uplink-security-mech-dgygax-name
   description: uplink-security-mech-dgygax-desc
-  productEntity: MechGygaxSyndieBattery
+  productEntity: MechGygaxSyndieFilled
   cost:
     TelecrystalDamaged: 200
   categories:
@@ -2260,10 +2259,10 @@
           - SurplusBundle
 
 - type: listing
-  id: SmuggerUplinkgMechMaulerSyndieBattery
+  id: SmuggerUplinkgMechMaulerSyndieFilled
   name: uplink-security-mech-mauler-name
   description: uplink-security-mech-mauler-desc
-  productEntity: MechMaulerSyndieBattery
+  productEntity: MechMaulerSyndieFilled
   cost:
     TelecrystalDamaged: 300
   categories:
