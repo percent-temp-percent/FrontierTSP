@@ -394,8 +394,8 @@
 
 - type: listing
   id: SmuggerUplinkDuffelSyndicateC4tBundle
-  name: uplink-с4-duffel-name
-  description: uplink-с4-duffel-desc
+  name: uplink-c4-duffel-name
+  description: uplink-c4-duffel-desc
   productEntity: ClothingBackpackDuffelSyndicateC4tBundle
   cost:
     TelecrystalDamaged: 60
@@ -1169,8 +1169,8 @@
 
 - type: listing
   id: SmuggerUplinkCrateSyndicate
-  name: uplink-сrate-syndicate-name
-  description: uplink-сrate-syndicate-desc
+  name: uplink-crate-syndicate-name
+  description: uplink-crate-syndicate-desc
   productEntity: CrateSyndicate
   cost:
     TelecrystalDamaged: 1

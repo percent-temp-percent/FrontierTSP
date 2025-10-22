@@ -1,6 +1,6 @@
 # Weapons
-uplink-с4-duffel-name = набор C4 Синдиката
-uplink-с4-duffel-desc = Содержит много зарядов взрывчатки С-4.
+uplink-c4-duffel-name = набор C4 Синдиката
+uplink-c4-duffel-desc = Содержит много зарядов взрывчатки С-4.
 uplink-exgrenade-name = разрывная граната
 uplink-exgrenade-desc = Здесь не на что смотреть, пожалуйста, расходитесь.
 uplink-thruster-syndicate-name = Двигатель Синдиката
@@ -238,8 +238,6 @@ uplink-surplus-bundle-name = Ящик припасов Синдиката
 uplink-surplus-bundle-desc = Содержит случайное снаряжение Синдиката, общей стоимостью в 50 телекристаллов. Оно может быть как бесполезным хламом, так и реально крутым.
 uplink-super-surplus-bundle-name = Ящик суперприпасов Синдиката
 uplink-super-surplus-bundle-desc = Содержит случайное снаряжение Синдиката, общей стоимостью в 125 телекристаллов.
-uplink-сrate-syndicate-name = Ящик Синдиката
-uplink-сrate-syndicate-desc = Стальной ящик тёмного цвета с красными полосами и выдавленной на передней панели литерой S.
 # Tools
 uplink-toolbox-name = Ящик инструментов
 uplink-toolbox-desc = Полный набор инструментов для предателя с тягой к механике. Включает пару изолированных боевых перчаток, противогаз Синдиката и плечевую кобуру.

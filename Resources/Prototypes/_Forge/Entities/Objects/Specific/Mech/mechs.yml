@@ -584,7 +584,7 @@
     color: red
 
 - type: entity
-  id: MechGygaxSyndieFilled
+  id: MechGygaxSyndieBattery
   parent: MechGygaxSyndie
   suffix: Battery, Air
   components:
@@ -658,7 +658,7 @@
     color: red
 
 - type: entity
-  id: MechMaulerSyndieFilled
+  id: MechMaulerSyndieBattery
   parent: MechMaulerSyndie
   suffix: Battery, Air
   components:
