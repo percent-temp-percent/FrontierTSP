@@ -111,20 +111,20 @@
   - UplinkWeaponrySmugger
 
 - type: listing
-  id: SmuggerUplinkEnergyShield 
+  id: SmuggerUplinkEnergyShield
   name: uplink-eshield-name
   description: uplink-eshield-desc
-  productEntity: EnergyShield 
+  productEntity: EnergyShield
   cost:
     TelecrystalDamaged: 16
   categories:
   - UplinkWeaponrySmugger
 
 - type: listing
-  id: SmuggerUplinkM90GrenadeLauncher 
+  id: SmuggerUplinkM90GrenadeLauncher
   name: uplink-m90-name
   description: uplink-m90-desc
-  productEntity: NFWeaponRifleAssaultM90GrenadeLauncher 
+  productEntity: NFWeaponRifleAssaultM90GrenadeLauncher
   cost:
     TelecrystalDamaged: 30
   categories:
@@ -134,37 +134,37 @@
   id: SmuggerUplinkAtreides
   name: uplink-atreides-name
   description: uplink-atreides-desc
-  productEntity: NFWeaponSubMachineGunAtreides 
+  productEntity: NFWeaponSubMachineGunAtreides
   cost:
     TelecrystalDamaged: 38
   categories:
   - UplinkWeaponrySmugger
 
 - type: listing
-  id: SmuggerUplinkJackdaw 
+  id: SmuggerUplinkJackdaw
   name: uplink-jackdaw-name
   description: uplink-jackdaw-desc
-  productEntity: NFWeaponRifleAssaultJackdaw 
+  productEntity: NFWeaponRifleAssaultJackdaw
   cost:
     TelecrystalDamaged: 28
   categories:
   - UplinkWeaponrySmugger
 
 - type: listing
-  id: SmuggerUplinkP90LRK 
+  id: SmuggerUplinkP90LRK
   name: uplink-p90lrk-name
   description: uplink-p90lrk-desc
-  productEntity: WeaponSubMachineP90LRK 
+  productEntity: WeaponSubMachineP90LRK
   cost:
     TelecrystalDamaged: 40
   categories:
   - UplinkWeaponrySmugger
 
 - type: listing
-  id: SmuggerUplinkNFEnergyPickaxe 
+  id: SmuggerUplinkNFEnergyPickaxe
   name: uplink-energy-pickaxe-name
   description: uplink-energy-pickaxe-desc
-  productEntity: NFEnergyPickaxe 
+  productEntity: NFEnergyPickaxe
   cost:
     TelecrystalDamaged: 16
   categories:
@@ -174,7 +174,7 @@
   id: SmuggerUplinkRifleAssaultSm
   name: uplink-sm-name
   description: uplink-sm-desc
-  productEntity: NFWeaponRifleAssaultSm 
+  productEntity: NFWeaponRifleAssaultSm
   cost:
     TelecrystalDamaged: 36
   categories:
@@ -184,7 +184,7 @@
   id: SmuggerUplinkWeaponShotgunKD12
   name: uplink-kd12-name
   description: uplink-kd12-desc
-  productEntity: WeaponShotgunKD12 
+  productEntity: WeaponShotgunKD12
   cost:
     TelecrystalDamaged: 12
   categories:
@@ -1980,6 +1980,16 @@
   productEntity: ClothingBackpackSatchelSyndicate
   cost:
     TelecrystalDamaged: 4
+  categories:
+  - UplinkWearablesSmugger
+
+- type: listing
+  id: SmuggerUplinkClothingHeadHelmetSwatSyndicate
+  name: uplink-helmet-swat-syndicate-name
+  description: uplink-helmet-swat-syndicate-desc
+  productEntity: ClothingHeadHelmetSwatSyndicate
+  cost:
+    TelecrystalDamaged: 6
   categories:
   - UplinkWearablesSmugger
 

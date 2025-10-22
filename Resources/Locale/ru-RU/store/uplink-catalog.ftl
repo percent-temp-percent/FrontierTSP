@@ -275,6 +275,8 @@ uplink-cluster-banana-peel-desc = После приземления распад
 uplink-cane-blade-name = Трость с клинком
 uplink-cane-blade-desc = Трость со спрятанным клинком, который можно в любой момент вынуть.
 # Armor
+uplink-helmet-swat-syndicate-name = шлем спецназа
+uplink-helmet-swat-syndicate-desc = Очень прочный шлем, широко используемый военизированными организациями. Его украшает ужасный узор из красных и чёрных полос.
 uplink-chameleon-name = Набор "Хамелеон"
 uplink-chameleon-desc = Рюкзак, полный вещей, оснащённых технологией хамелеона, позволяющих вам маскироваться под кого угодно на станции, и даже больше!
 uplink-clothing-no-slips-shoes-name = Нескользящая обувь
