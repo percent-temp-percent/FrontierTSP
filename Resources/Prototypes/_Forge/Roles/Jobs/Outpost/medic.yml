@@ -18,7 +18,10 @@
   - Janitor
   - Maintenance
   - External
+  - Frontier
   - Medical
+  extendedAccess:
+  - Service
   special:
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant ]
