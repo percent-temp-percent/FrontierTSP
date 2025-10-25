@@ -1575,7 +1575,7 @@
   id: UplinkChestRig
   name: uplink-chest-rig-name
   description: uplink-chest-rig-desc
-  productEntity: ClothingBeltMilitaryWebbing
+  productEntity: ClothingBeltMilitaryWebbingSyndicate # Corvax-Forge
   cost:
     Telecrystal: 1
   categories:
