@@ -984,7 +984,7 @@
 
 - type: listing
   id: ContractorUplinkNVGContractor
-  name: прибор ночного виденья DCN™
+  name: прибор ночного видения DCN™
   description: Усовершенствованный сенсорный дисплей, который выдает идентификационные данные и обеспечивает видимость в полной темноте.
   productEntity: NFClothingEyesNightVisionGoggleContractor
   discountCategory: veryRareDiscounts
@@ -998,7 +998,7 @@
 - type: listing
   id: ContractorUplinkVestWebContractor
   name: тактический жилет DCN™
-  description: Стильный синтетический бронежилет. Имеет прочные баллестические пластины.
+  description: Стильный синтетический бронежилет. Имеет прочные баллистические пластины.
   productEntity: ClothingOuterVestWebContractor
   discountCategory: veryRareDiscounts
   discountDownTo:
@@ -1010,8 +1010,8 @@
 
 - type: listing
   id: ContractorUplinkVestWebEliteContractor
-  name: элитный тактичкский жилет DCN™
-  description: Стильный синтетический бронежилет. Сшит из термостойких волокон и дополнительными баллестическими пластинами для настоящих элитных агентов.
+  name: элитный тактический жилет DCN™
+  description: Стильный синтетический бронежилет. Сшит из термостойких волокон и дополнительными баллистическими пластинами для настоящих элитных агентов.
   productEntity: ClothingOuterVestWebEliteContractor
   discountCategory: veryRareDiscounts
   discountDownTo:
