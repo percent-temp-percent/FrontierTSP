@@ -2035,9 +2035,9 @@
 
 - type: listing
   id: SmuggerUplinkClothingBeltMilitaryWebbingMed
-  name: uplink-military-webbing-med-name
+  name: РПС санитара синдиката
   description: uplink-military-webbing-med-desc
-  productEntity: ClothingBeltMilitaryWebbingMed
+  productEntity: ClothingBeltMilitaryWebbingSyndicateMed
   cost:
     TelecrystalDamaged: 2
   categories:
@@ -2045,9 +2045,9 @@
 
 - type: listing
   id: SmuggerUplinkChestRig
-  name: uplink-chest-rig-name
+  name: РПС синдиката
   description: uplink-chest-rig-desc
-  productEntity: ClothingBeltMilitaryWebbing
+  productEntity: ClothingBeltMilitaryWebbingSyndicate
   cost:
     TelecrystalDamaged: 2
   categories:
