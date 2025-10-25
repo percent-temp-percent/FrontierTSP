@@ -1,9 +1,3 @@
-# Station Representative Forms
-# Sources: https://discord.com/channels/1123826877245694004/1182366744266932224/1182366744266932224
-#          https://docs.google.com/document/d/1jDX9numj-VHKBJ2FiiEo1GIlHESffOUIHIIXaqhEnls/edit?pli=1#heading=h.ru93r8n0fb7m
-# These forms should be kept up-to-date with changes to Space Law.
-
-# Filled Folder
 - type: entity
   id: ForgeFillNfsdForms
   abstract: true
