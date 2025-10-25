@@ -458,7 +458,7 @@
 #   id: UplinkSecurityKS23
 #   name:  uplink-security-ks23-name
 #   description: uplink-security-ks23-desc
-#   productEntity: WeaponCaseLongWeaponShotgunKS23
+#   productEntity: WeaponShotgunKD12
 #   icon: { sprite: Forge/Objects/Weapons/Guns/Shotguns/ks23.rsi, state: icon }
 #   cost:
 #     FrontierUplinkCoin: 3
