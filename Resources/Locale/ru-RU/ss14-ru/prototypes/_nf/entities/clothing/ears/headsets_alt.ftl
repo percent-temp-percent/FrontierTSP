@@ -6,5 +6,5 @@ ent-ClothingHeadsetAltNfsdGreen = полноразмерная гарнитур�
     .desc = { ent-ClothingHeadsetAlt.desc }
 ent-ClothingHeadsetAltNfsdBrown = полноразмерная гарнитура ДСБФ
     .desc = { ent-ClothingHeadsetAlt.desc }
-ent-ClothingHeadsetAltNfsdCreamandBrown = полноразмерная гарнитура Шерифа
+ent-ClothingHeadsetAltNfsdCreamandBrown = полноразмерная гарнитура ДСБФ
     .desc = { ent-ClothingHeadsetAlt.desc }
