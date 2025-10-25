@@ -1,6 +1,6 @@
 - type: radioChannel
   id: SyndicateSmuggler
-  name: Контрабандист
+  name: radio-smuggler
   keycode: 'й'
   frequency: 1246
   color: "#9e1500"
@@ -8,7 +8,7 @@
 
 - type: radioChannel
   id: SyndicateShturm
-  name: Жнецы
+  name: radio-shturm
   keycode: 'у'
   frequency: 5603
   color: "#680721"
