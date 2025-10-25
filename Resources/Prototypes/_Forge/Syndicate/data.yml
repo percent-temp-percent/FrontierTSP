@@ -82,7 +82,7 @@
 - type: entity
   parent: [ BaseLatheLube, BaseStructureDisableToolUse ]
   id: SyndicateDataConventor
-  name: конвентер кэша Синдиката
+  name: конвертер кэша Синдиката
   description: Сервер на котором хранятся ужасные данные Синдиката. Тут имеется слот для кэша.
   components:
   - type: Sprite
