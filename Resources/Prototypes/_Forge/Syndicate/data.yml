@@ -16,7 +16,7 @@
   - type: DataMinerSyndicate
 
 - type: entity
-  parent: [ BaseMachinePowered, BaseStructureDisableToolUse ]
+  parent: [ BaseMachinePowered, BaseStructureDisableToolUse, ConstructibleMachine ]
   id: SyndicateDataServer
   name: дата сервер Синдиката
   description: Ужасающее устройство синдиката способное преобразовать один тип валюты в другой и обратно.
