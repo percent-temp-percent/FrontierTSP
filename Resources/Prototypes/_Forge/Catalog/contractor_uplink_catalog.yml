@@ -23,6 +23,19 @@
   - ContractorUplinkWeaponry
 
 - type: listing
+  id: ContractorUplinkNFWeaponPistolAnaconda45
+  name: uplink-pistol-anaconda-name
+  description: uplink-pistol-anaconda-desc
+  productEntity: NFWeaponPistolAnaconda45
+  discountCategory: rareDiscounts
+  discountDownTo:
+    Telecrystal: 14
+  cost:
+    Telecrystal: 20
+  categories:
+  - ContractorUplinkWeaponry
+
+- type: listing
   id: ContractorUplinkRevolverPython
   name: uplink-revolver-python-name
   description: uplink-revolver-python-desc
@@ -1294,3 +1307,13 @@
     blacklist:
       components:
       - SurplusBundle
+
+- type: listing
+  id: ContractorUplinkPowerCellDCN
+  name: uplink-PowerCellDCN-name
+  description: uplink-PowerCellDCN-desc
+  productEntity: PowerCellDCN
+  cost:
+    Telecrystal: 12
+  categories:
+  - ContractorUplinkWearables
