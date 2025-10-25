@@ -2,7 +2,7 @@
   parent: [ClothingOuterStorageBase, AllowSuitStorageClothing, BaseC3Contraband, ContrabandClothing]
   id: ClothingOuterVestWebContractor
   name: тактический жилет DCN™
-  description: Стильный синтетический бронежилет. Имеет прочные баллестические пластины.
+  description: Стильный синтетический бронежилет. Имеет прочные баллистические пластины.
   components:
   - type: Sprite
     sprite: Forge/Clothing/OuterClothing/Armor/tact_contractor.rsi
@@ -24,8 +24,8 @@
 - type: entity
   parent: [ClothingOuterStorageBase, AllowSuitStorageClothing, BaseC3Contraband, ContrabandClothing]
   id: ClothingOuterVestWebEliteContractor
-  name: элитный тактичкский жилет DCN™
-  description: Стильный синтетический бронежилет. Сшит из термостойких волокон и дополнительными баллестическими пластинами для настоящих элитных агентов.
+  name: элитный тактический жилет DCN™
+  description: Стильный синтетический бронежилет. Сшит из термостойких волокон и дополнительными баллистическими пластинами для настоящих элитных агентов.
   components:
   - type: Sprite
     sprite: Forge/Clothing/OuterClothing/Armor/elite_tact_contractor.rsi
