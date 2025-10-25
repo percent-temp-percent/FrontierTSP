@@ -115,6 +115,9 @@
     size: Normal
   - type: StaticPrice #CorvaxFrontier
     price: 200
+  - type: Jetpack #CorvaxFrontier
+    radarBlip: false
+
 - type: entity
   parent: BaseAction
   id: ActionToggleMagboots

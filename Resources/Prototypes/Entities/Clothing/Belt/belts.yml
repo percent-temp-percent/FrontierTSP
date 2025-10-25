@@ -680,8 +680,8 @@
     sprite: Clothing/Belt/militarywebbing.rsi
   - type: Clothing
     sprite: Clothing/Belt/militarywebbing.rsi
-  - type: ExplosionResistance
-    damageCoefficient: 0.1
+  # - type: ExplosionResistance #Corvax-Frontier
+  #   damageCoefficient: 0.1
 
 - type: entity
   parent: ClothingBeltMilitaryWebbing
@@ -695,8 +695,8 @@
     sprite: Clothing/Belt/militarywebbingmed.rsi
   #- type: Item # Frontier
     #size: Huge # Frontier
-  - type: ExplosionResistance
-    damageCoefficient: 0.1
+  # - type: ExplosionResistance #Corvax-Frontier
+  #   damageCoefficient: 0.1
 
 - type: entity
   parent: NFClothingBeltStorageBase # Frontier: ClothingBeltStorageBase<NFClothingBeltStorageBase

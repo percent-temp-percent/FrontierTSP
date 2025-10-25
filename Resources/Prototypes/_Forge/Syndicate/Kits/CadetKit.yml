@@ -1,7 +1,7 @@
 - type: entity
   id: ToolboxKadet
   name: подозрительный ящик неопределённости
-  suffix: кадет
+  suffix: Телохранитель Контрабандиста
   description: Что же взять на этот раз?
   parent: [ BaseItem, BaseC3SyndicateContraband ] # Frontier: BaseMinorContraband<BaseC3SyndicateContraband
   components:
@@ -11,11 +11,8 @@
   - type: ThiefUndeterminedBackpack
     maxSelectedSets: 1
     possibleSets:
-    - CadetSamuraiSet
-    - CadetTeaPartySet
-    - CadetBouncerSet
-    - CadetSpaceSet
-    - CadetNonLetalSet
+    - SyndCadet1Set
+    - SyndCadet2Set
   - type: ActivatableUI
     key: enum.ThiefBackpackUIKey.Key
   - type: UserInterface

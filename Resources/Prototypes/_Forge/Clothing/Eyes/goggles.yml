@@ -155,3 +155,27 @@
     color: "#808080"
     flashDurationMultiplier: 2
     isEquipment: true
+
+- type: entity
+  parent: [ClothingEyesNightVisionGoggles, ShowSecurityIcons, ShowMedicalIcons, BaseC2ContrabandUnredeemable]
+  id: NFClothingEyesNightVisionGoggleContractor
+  name: прибор ночного видения DCN™
+  description: Усовершенствованный сенсорный дисплей, который выдает идентификационные данные и обеспечивает видимость в полной темноте.
+  components:
+  - type: Sprite
+    sprite: Forge/Clothing/Eyes/Goggles/dcn_nightvision.rsi
+  - type: Clothing
+    sprite: Forge/Clothing/Eyes/Goggles/dcn_nightvision.rsi
+  - type: FlashImmunity
+  - type: EyeProtection
+  - type: StaticPrice
+    price: 30
+  - type: ShowHealthBars
+    damageContainers:
+    - Biological
+    - Inorganic
+    - Silicon
+  - type: NightVision
+    color: "#aa9c00"
+    flashDurationMultiplier: 2
+    isEquipment: true
