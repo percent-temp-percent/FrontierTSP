@@ -35,7 +35,6 @@
     ears: ClothingHeadsetMedical
     belt: ClothingBeltMedicalFilled
     eyes: ClothingEyesGlassesMed
-    id: MedicalPDA
   storage:
     back:
     - HypoMini

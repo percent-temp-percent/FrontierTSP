@@ -84,6 +84,7 @@
   - DocGloves
   - OMedicShoes
   - OMedicBackpack
+  - OMedicPDA
   - ContractorWallet
   - ContractorCartridge
   - ContractorImplanter
@@ -101,6 +102,7 @@
   - OEngiShoes
   - OEngiBackpack
   - OEngiBelt
+  - OEngineerPDA
   - ContractorCartridge
   - ContractorImplanter
   - ContractorBackpackItems
@@ -119,6 +121,7 @@
   - OServiceShoes
   - OServiceBackpack
   - OServiceBelt
+  - OServicePDA
   - OServiceForcedOuterClothing
   - ContractorGloves
   - ContractorWallet

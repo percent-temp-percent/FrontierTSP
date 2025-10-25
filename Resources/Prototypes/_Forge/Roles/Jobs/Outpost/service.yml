@@ -5,10 +5,10 @@
   playTimeTracker: JobOutpostService
   requirements:
     - !type:OverallPlaytimeRequirement
-      time: 36000 # Frontier - 10 hrs
+      time: 0 # Посмотрим, что из этого выйдет..
   startingGear: OutpostServiceGear
   alwaysUseSpawner: true
-  icon: "JobIconValet"
+  icon: "JobIconOutpostService"
   supervisors: job-supervisors-sr
   weight: 80
   displayWeight: 20 # Second from the bottom
@@ -31,7 +31,6 @@
   equipment:
     ears: ClothingHeadsetService
     eyes: ClothingEyesGlassesSunglasses #ClothingEyesGlassesSecurity
-    id: ServiceWorkerPDA
   storage:
     back:
     - BoxFolderClipboard
