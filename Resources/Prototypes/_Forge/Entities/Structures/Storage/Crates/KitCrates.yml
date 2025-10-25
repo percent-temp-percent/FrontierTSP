@@ -239,7 +239,7 @@
       amount: 1
     - id: HemostasisAutoInjector
       amount: 1
-    - id: WeaponCaseLongWeaponShotgunKS23
+    - id: WeaponShotgunKD12
       amount: 1
 
 - type: entity
@@ -350,7 +350,7 @@
       amount: 1
     - id: FrontierUplinkCoin5
       amount: 1
-    - id: WeaponCaseLongWeaponShotgunKS23
+    - id: WeaponShotgunKD12
       amount: 1
     - id: EnergyShieldNfsd
       amount: 1

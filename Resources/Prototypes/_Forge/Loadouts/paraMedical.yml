@@ -50,7 +50,7 @@
   minLimit: 1
   loadouts:
   - ParaMedicalWalletMed
-  - ClothingWalletLeatherMedNian
+  - ParaMedicalWalletMedNian
   fallbacks:
   - ParaMedicalWalletMed
 
