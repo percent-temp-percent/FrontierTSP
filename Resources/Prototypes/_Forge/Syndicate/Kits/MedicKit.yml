@@ -2,6 +2,7 @@
   id: ToolboxMedic
   name: подозрительный ящик неопределённости
   description: Что же взять на этот раз?
+  suffix: Санитар синдиката
   parent: [ BaseItem, BaseC3SyndicateContraband ] # Frontier: BaseMinorContraband<BaseC3SyndicateContraband
   components:
   - type: Sprite
@@ -10,9 +11,10 @@
   - type: ThiefUndeterminedBackpack
     maxSelectedSets: 1
     possibleSets:
-    - DefibrillatorSyndicateSet
-    - atreidesSet
-    - NocturineChemistryBottleSet
+    - SyndMedic1Set
+    - SyndMedic2Set
+    - SyndMedic3Set
+    - SyndMedic4Set
   - type: ActivatableUI
     key: enum.ThiefBackpackUIKey.Key
   - type: UserInterface

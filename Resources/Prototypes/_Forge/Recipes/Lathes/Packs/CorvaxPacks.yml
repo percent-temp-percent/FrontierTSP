@@ -306,3 +306,10 @@
   - BluespaceBeakerInter # - 50000 спесо (контрабандные)
   - JugBluespaceInter # - 50000 спесо (контрабандные)
   - PowerCellSyndicateInter
+
+# Конвентер кэша
+- type: latheRecipePack
+  id: SyndicateTradingCash
+  recipes:
+  - SpaceCashSyndicateTORecipe
+  - SpaceCashSyndicateFROMRecipe

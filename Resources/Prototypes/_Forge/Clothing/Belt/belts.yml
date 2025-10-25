@@ -12,7 +12,7 @@
     damageCoefficient: 0.1
   - type: Storage
     grid:
-    - 0,0,9,1
+    - 0,0,10,1
 
 - type: entity
   parent: [ BaseC2ContrabandUnredeemable, ClothingBeltChiefEngineer, ContentsExplosionResistanceBase ]

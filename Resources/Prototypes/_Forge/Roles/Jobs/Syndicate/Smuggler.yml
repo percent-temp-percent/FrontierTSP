@@ -33,7 +33,7 @@
 - type: startingGear
   id: SmugglerGear
   equipment:
-    ears: ClothingHeadsetAltSyndicate
+    ears: ClothingHeadsetAltSyndicateSmuggler
     id: SyndiPDASmugger
     belt: ClothingBeltSyndieHolster
     pocket1: NFWeaponPistolViper

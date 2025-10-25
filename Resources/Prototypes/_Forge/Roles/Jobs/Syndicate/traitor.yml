@@ -3,7 +3,7 @@
   parent: SyndicateOperativeClothing
   equipment:
     id: SyndiPDACadet
-    ears: ClothingHeadsetAltSyndicate
+    ears: ClothingHeadsetAltSyndicateSmuggler
     gloves: ClothingHandsGlovesCombat
     jumpsuit: ClothingUniformJumpsuitRecruitSyndie
     head: ClothingHeadHatRedsoft
