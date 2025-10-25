@@ -103,6 +103,8 @@
       types:
         Blunt: 0
         Shock: 5
+  - type: MeleeWeapon
+    attackRate: 1.25
   - type: StaminaDamageOnHit
     damage: 50
     sound: /Audio/Weapons/egloves.ogg
@@ -125,6 +127,8 @@
       types:
         Blunt: 0
         Shock: 7.5
+  - type: MeleeWeapon
+    attackRate: 1.75
   - type: StaminaDamageOnHit
     damage: 80
     sound: /Audio/Weapons/egloves.ogg
