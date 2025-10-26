@@ -4,8 +4,8 @@ meta:
   engineVersion: 262.0.0
   forkId: ""
   forkVersion: ""
-  time: 10/26/2025 14:00:19
-  entityCount: 5872
+  time: 10/26/2025 15:04:29
+  entityCount: 5873
 maps: []
 grids:
 - 2
@@ -2371,7 +2371,8 @@ entities:
           8,-1:
             0: 65399
           5,1:
-            0: 4915
+            0: 819
+            5: 4096
             2: 34952
           5,2:
             5: 307
@@ -3820,7 +3821,7 @@ entities:
       pos: 8.5,10.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -28624.873
+      secondsUntilStateChange: -28658.072
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -7298,6 +7299,11 @@ entities:
     components:
     - type: Transform
       pos: 20.5,10.5
+      parent: 2
+  - uid: 5866
+    components:
+    - type: Transform
+      pos: 20.5,7.5
       parent: 2
 - proto: AtmosFixNitrogenMarker
   entities:
