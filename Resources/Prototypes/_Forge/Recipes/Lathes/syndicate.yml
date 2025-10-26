@@ -718,6 +718,14 @@
 
 - type: latheRecipe
   categories: [SyndicateTradingConsoleFirearmsWeapons, SyndicateTradingConsoleLaserArmsWeapons]
+  id: EnergyShieldSTrade
+  result: EnergyShield
+  completetime: 1
+  materials:
+    CreditCounterfeit: 24000
+
+- type: latheRecipe
+  categories: [SyndicateTradingConsoleFirearmsWeapons, SyndicateTradingConsoleLaserArmsWeapons]
   id: NFWeaponEnergyRifleTemperatureSTrade
   result: NFWeaponEnergyRifleTemperature
   completetime: 1

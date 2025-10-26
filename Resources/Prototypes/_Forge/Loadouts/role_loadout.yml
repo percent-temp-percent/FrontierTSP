@@ -75,6 +75,7 @@
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
+  - paraMedicalBackpackItems
 
 - type: roleLoadout
   id: JobOutpostMedic
