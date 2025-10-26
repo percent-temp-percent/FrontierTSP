@@ -4,7 +4,7 @@ meta:
   engineVersion: 262.0.0
   forkId: ""
   forkVersion: ""
-  time: 10/26/2025 00:13:18
+  time: 10/26/2025 14:52:35
   entityCount: 1789
 maps: []
 grids:
@@ -6324,7 +6324,7 @@ entities:
       pos: -5.5,-2.5
       parent: 1
     - type: Door
-      secondsUntilStateChange: -8287.571
+      secondsUntilStateChange: -8340.503
       state: Closing
     - type: DeviceNetwork
       deviceLists:
@@ -10537,13 +10537,15 @@ entities:
     - type: Transform
       pos: 14.5,-3.5
       parent: 1
-- proto: VendingMachineSoda
+- proto: VendingMachineSnackDonkSyndi
   entities:
   - uid: 1359
     components:
     - type: Transform
       pos: 3.5,-1.5
       parent: 1
+- proto: VendingMachineSoda
+  entities:
   - uid: 1360
     components:
     - type: Transform

@@ -4,8 +4,8 @@ meta:
   engineVersion: 262.0.0
   forkId: ""
   forkVersion: ""
-  time: 10/25/2025 20:28:04
-  entityCount: 5129
+  time: 10/26/2025 14:54:01
+  entityCount: 5155
 maps:
 - 4852
 grids:
@@ -158,7 +158,6 @@ entities:
             706: 15,15
             709: 11,15
             721: 19,15
-            747: 18,11
         - node:
             color: '#545461FF'
             id: BrickTileWhiteCornerNe
@@ -230,6 +229,11 @@ entities:
             1013: -16,-4
             1017: -20,-4
         - node:
+            color: '#FA7500FF'
+            id: BrickTileWhiteCornerNe
+          decals:
+            1599: 18,11
+        - node:
             color: '#2E9935FF'
             id: BrickTileWhiteCornerNw
           decals:
@@ -245,7 +249,6 @@ entities:
           decals:
             636: 6,22
             696: 3,15
-            744: 16,11
         - node:
             color: '#545461FF'
             id: BrickTileWhiteCornerNw
@@ -311,6 +314,11 @@ entities:
             1014: -18,-4
             1018: -22,-4
         - node:
+            color: '#FA7500FF'
+            id: BrickTileWhiteCornerNw
+          decals:
+            1598: 16,11
+        - node:
             color: '#2E9935FF'
             id: BrickTileWhiteCornerSe
           decals:
@@ -328,7 +336,6 @@ entities:
             704: 11,13
             705: 15,13
             723: 19,13
-            746: 18,7
         - node:
             color: '#545461FF'
             id: BrickTileWhiteCornerSe
@@ -393,6 +400,11 @@ entities:
             1012: -16,-5
             1016: -20,-6
         - node:
+            color: '#FA7500FF'
+            id: BrickTileWhiteCornerSe
+          decals:
+            1589: 18,7
+        - node:
             color: '#2E9935FF'
             id: BrickTileWhiteCornerSw
           decals:
@@ -410,7 +422,6 @@ entities:
             698: 3,13
             707: 13,13
             708: 10,13
-            745: 16,7
         - node:
             color: '#545461FF'
             id: BrickTileWhiteCornerSw
@@ -472,6 +483,11 @@ entities:
             id: BrickTileWhiteCornerSw
           decals:
             1019: -22,-6
+        - node:
+            color: '#FA7500FF'
+            id: BrickTileWhiteCornerSw
+          decals:
+            1590: 16,7
         - node:
             color: '#9FED58FF'
             id: BrickTileWhiteEndN
@@ -617,9 +633,6 @@ entities:
             713: 15,14
             722: 19,14
             734: 8,15
-            748: 18,10
-            749: 18,9
-            750: 18,8
             1266: 1,13
             1267: 1,14
             1268: 1,15
@@ -738,6 +751,13 @@ entities:
             996: -16,-10
             997: -16,-9
             998: -16,-8
+        - node:
+            color: '#FA7500FF'
+            id: BrickTileWhiteLineE
+          decals:
+            1594: 18,8
+            1595: 18,9
+            1596: 18,10
         - node:
             color: '#2E9935FF'
             id: BrickTileWhiteLineN
@@ -916,7 +936,6 @@ entities:
             701: 6,13
             702: 7,13
             724: 18,13
-            751: 17,7
             755: 14,13
             1249: 18,24
             1250: 17,24
@@ -1043,6 +1062,11 @@ entities:
             1011: -18,-5
             1020: -21,-6
         - node:
+            color: '#FA7500FF'
+            id: BrickTileWhiteLineS
+          decals:
+            1597: 17,7
+        - node:
             color: '#2E9935FF'
             id: BrickTileWhiteLineW
           decals:
@@ -1069,9 +1093,6 @@ entities:
             736: 13,15
             737: 17,15
             740: 17,13
-            752: 16,8
-            753: 16,9
-            754: 16,10
         - node:
             color: '#545461FF'
             id: BrickTileWhiteLineW
@@ -1182,6 +1203,13 @@ entities:
             1003: -18,-10
             1004: -18,-11
             1021: -22,-5
+        - node:
+            color: '#FA7500FF'
+            id: BrickTileWhiteLineW
+          decals:
+            1591: 16,8
+            1592: 16,9
+            1593: 16,10
         - node:
             color: '#EFB341FF'
             id: DeliveryGreyscale
@@ -1362,10 +1390,6 @@ entities:
             602: 11,15
             603: 14,14
             604: 18,13
-            605: 17,10
-            606: 18,9
-            607: 17,7
-            608: 16,11
             609: 15,19
             610: 13,20
             611: 12,21
@@ -1383,6 +1407,10 @@ entities:
             1404: -8,9
             1440: 1,-31
             1441: 1,-29
+            1577: 17,11
+            1578: 18,8
+            1579: 17,7
+            1580: 16,9
         - node:
             color: '#FFFFFFFF'
             id: DirtLight
@@ -1668,8 +1696,6 @@ entities:
             574: 12,17
             575: 10,21
             576: 4,13
-            577: 18,8
-            578: 17,11
             619: 7,20
             620: 8,18
             621: 5,14
@@ -1680,8 +1706,6 @@ entities:
             626: 16,22
             627: 17,17
             628: 18,14
-            629: 18,11
-            630: 16,7
             1145: -31,5
             1398: -9,8
             1399: -10,9
@@ -1690,6 +1714,10 @@ entities:
             1442: -1,-31
             1443: 0,-30
             1444: -1,-23
+            1581: 16,8
+            1582: 17,10
+            1583: 16,11
+            1584: 17,8
         - node:
             color: '#FFFFFFFF'
             id: DirtMedium
@@ -1852,8 +1880,6 @@ entities:
             584: 15,22
             585: 16,21
             586: 18,17
-            587: 16,8
-            588: 16,10
             589: 15,14
             590: 10,13
             591: 6,14
@@ -1868,6 +1894,10 @@ entities:
             1405: -10,7
             1445: -1,-30
             1446: 0,-31
+            1585: 16,7
+            1586: 18,10
+            1587: 18,9
+            1588: 17,8
         - node:
             color: '#FFFFFFFF'
             id: SpaceStationSign1
@@ -2037,7 +2067,6 @@ entities:
             731: 10,15
             732: 13,15
             733: 17,15
-            743: 17,11
         - node:
             color: '#8FD3FFFF'
             id: WarnLineGreyscaleN
@@ -2078,6 +2107,11 @@ entities:
             id: WarnLineGreyscaleN
           decals:
             1007: -17,-7
+        - node:
+            color: '#FA7500FF'
+            id: WarnLineGreyscaleN
+          decals:
+            1600: 17,11
         - node:
             color: '#52B4E9FF'
             id: WarnLineGreyscaleS
@@ -2469,9 +2503,11 @@ entities:
           -2,-4:
             0: 65399
           -2,-3:
-            0: 24831
+            0: 255
+            2: 24576
           -2,-2:
-            0: 30502
+            0: 30464
+            2: 38
           -2,-5:
             0: 30583
           -1,-4:
@@ -2566,9 +2602,9 @@ entities:
           -4,5:
             0: 1654
           -5,5:
-            2: 12
+            3: 12
             1: 193
-            3: 3072
+            4: 3072
           -4,6:
             0: 4095
           -5,6:
@@ -2738,6 +2774,21 @@ entities:
           moles:
           - 0
           - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        - volume: 2500
+          temperature: 235
+          moles:
+          - 27.225372
+          - 102.419266
           - 0
           - 0
           - 0
@@ -3376,6 +3427,13 @@ entities:
     - type: Transform
       pos: 5.5,-21.5
       parent: 1
+- proto: AirlockChemistryLocked
+  entities:
+  - uid: 496
+    components:
+    - type: Transform
+      pos: 17.5,12.5
+      parent: 1
 - proto: AirlockEngineeringGlass
   entities:
   - uid: 485
@@ -3654,14 +3712,6 @@ entities:
       parent: 1
 - proto: AirlockFreezer
   entities:
-  - uid: 2705
-    components:
-    - type: Transform
-      pos: -6.5,-6.5
-      parent: 1
-    - type: AccessReader
-      access:
-      - - Service
   - uid: 2723
     components:
     - type: Transform
@@ -3670,6 +3720,11 @@ entities:
     - type: AccessReader
       access:
       - - Service
+  - uid: 5155
+    components:
+    - type: Transform
+      pos: -6.5,-6.5
+      parent: 1
 - proto: AirlockFrontierCommandLocked
   entities:
   - uid: 1330
@@ -4028,11 +4083,6 @@ entities:
     components:
     - type: Transform
       pos: 17.5,16.5
-      parent: 1
-  - uid: 496
-    components:
-    - type: Transform
-      pos: 17.5,12.5
       parent: 1
   - uid: 497
     components:
@@ -4694,6 +4744,33 @@ entities:
     components:
     - type: Transform
       pos: 1.5,-30.5
+      parent: 1
+- proto: AtmosFixFreezerMarker
+  entities:
+  - uid: 343
+    components:
+    - type: Transform
+      pos: -6.5,-6.5
+      parent: 1
+  - uid: 5133
+    components:
+    - type: Transform
+      pos: -6.5,-8.5
+      parent: 1
+  - uid: 5152
+    components:
+    - type: Transform
+      pos: -6.5,-7.5
+      parent: 1
+  - uid: 5153
+    components:
+    - type: Transform
+      pos: -5.5,-8.5
+      parent: 1
+  - uid: 5154
+    components:
+    - type: Transform
+      pos: -5.5,-7.5
       parent: 1
 - proto: AtmosFixNitrogenMarker
   entities:
@@ -8217,6 +8294,96 @@ entities:
     components:
     - type: Transform
       pos: -13.5,21.5
+      parent: 1
+  - uid: 5134
+    components:
+    - type: Transform
+      pos: 0.5,28.5
+      parent: 1
+  - uid: 5135
+    components:
+    - type: Transform
+      pos: 0.5,29.5
+      parent: 1
+  - uid: 5136
+    components:
+    - type: Transform
+      pos: -23.5,25.5
+      parent: 1
+  - uid: 5137
+    components:
+    - type: Transform
+      pos: -24.5,25.5
+      parent: 1
+  - uid: 5138
+    components:
+    - type: Transform
+      pos: -20.5,28.5
+      parent: 1
+  - uid: 5139
+    components:
+    - type: Transform
+      pos: -20.5,29.5
+      parent: 1
+  - uid: 5140
+    components:
+    - type: Transform
+      pos: 21.5,28.5
+      parent: 1
+  - uid: 5141
+    components:
+    - type: Transform
+      pos: 21.5,29.5
+      parent: 1
+  - uid: 5142
+    components:
+    - type: Transform
+      pos: 24.5,25.5
+      parent: 1
+  - uid: 5143
+    components:
+    - type: Transform
+      pos: 25.5,25.5
+      parent: 1
+  - uid: 5144
+    components:
+    - type: Transform
+      pos: 25.5,-22.5
+      parent: 1
+  - uid: 5145
+    components:
+    - type: Transform
+      pos: 26.5,-22.5
+      parent: 1
+  - uid: 5146
+    components:
+    - type: Transform
+      pos: 22.5,-25.5
+      parent: 1
+  - uid: 5147
+    components:
+    - type: Transform
+      pos: 22.5,-26.5
+      parent: 1
+  - uid: 5148
+    components:
+    - type: Transform
+      pos: -28.5,-22.5
+      parent: 1
+  - uid: 5149
+    components:
+    - type: Transform
+      pos: -29.5,-22.5
+      parent: 1
+  - uid: 5150
+    components:
+    - type: Transform
+      pos: -25.5,-25.5
+      parent: 1
+  - uid: 5151
+    components:
+    - type: Transform
+      pos: -25.5,-26.5
       parent: 1
 - proto: CableHV
   entities:
@@ -14406,7 +14573,7 @@ entities:
       pos: 0.5,-7.5
       parent: 1
     - type: FaxMachine
-      name: Кабинет ПФа
+      name: Стойка ПФа
   - uid: 1062
     components:
     - type: Transform
@@ -14445,6 +14612,8 @@ entities:
     - type: Transform
       pos: -4.5,-27.5
       parent: 1
+    - type: FaxMachine
+      name: Кабинет ПФа
 - proto: filingCabinet
   entities:
   - uid: 664
@@ -25903,6 +26072,13 @@ entities:
     - type: Transform
       pos: -22.619228,-17.870981
       parent: 1
+- proto: LessLethalVendingMachinePOI
+  entities:
+  - uid: 3624
+    components:
+    - type: Transform
+      pos: -5.5,-10.5
+      parent: 1
 - proto: LockableButtonMedical
   entities:
   - uid: 4382
@@ -27779,6 +27955,23 @@ entities:
       rot: -1.5707963267948966 rad
       pos: -4.5,-26.5
       parent: 1
+  - uid: 5130
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: -3.5,-22.5
+      parent: 1
+  - uid: 5131
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: 4.5,-22.5
+      parent: 1
+  - uid: 5132
+    components:
+    - type: Transform
+      pos: 0.5,-25.5
+      parent: 1
 - proto: PoweredSmallLight
   entities:
   - uid: 4612
@@ -28197,18 +28390,6 @@ entities:
     - type: Transform
       pos: -4.5,9.5
       parent: 1
-- proto: RandomVending
-  entities:
-  - uid: 4453
-    components:
-    - type: Transform
-      pos: -5.5,-10.5
-      parent: 1
-  - uid: 4897
-    components:
-    - type: Transform
-      pos: 6.5,-10.5
-      parent: 1
 - proto: RandomVendingDrinks
   entities:
   - uid: 344
@@ -28223,15 +28404,15 @@ entities:
       parent: 1
 - proto: RandomVendingSnacks
   entities:
-  - uid: 343
-    components:
-    - type: Transform
-      pos: 6.5,-2.5
-      parent: 1
   - uid: 993
     components:
     - type: Transform
       pos: 1.5,-18.5
+      parent: 1
+  - uid: 2705
+    components:
+    - type: Transform
+      pos: 6.5,-10.5
       parent: 1
 - proto: RCD
   entities:
@@ -31050,15 +31231,15 @@ entities:
     - type: Transform
       pos: -5.5,20.5
       parent: 1
-  - uid: 3624
-    components:
-    - type: Transform
-      pos: -3.5,-23.5
-      parent: 1
   - uid: 3625
     components:
     - type: Transform
       pos: 4.5,-23.5
+      parent: 1
+  - uid: 4453
+    components:
+    - type: Transform
+      pos: -3.5,-23.5
       parent: 1
 - proto: VendingMachineHydrobe
   entities:
@@ -31153,6 +31334,13 @@ entities:
     components:
     - type: Transform
       pos: -8.5,-8.5
+      parent: 1
+- proto: VendingMachineSnackDonkNT
+  entities:
+  - uid: 4897
+    components:
+    - type: Transform
+      pos: 6.5,-2.5
       parent: 1
 - proto: VendingMachineTankDispenserEVAPOI
   entities:
