@@ -701,6 +701,14 @@
     CreditCounterfeit: 1000
 
 - type: latheRecipe
+  id: StickyBombSyndicateInter
+  categories: [SyndicateTradingConsoleBoom]
+  result: StickyBomb
+  completetime: 1
+  materials:
+    CreditCounterfeit: 4000
+
+- type: latheRecipe
   categories: [SyndicateTradingConsoleMeleeArmor]
   id: ClothingOuterVestWebEliteSTrade
   result: ClothingOuterVestWebElite
@@ -715,6 +723,14 @@
   completetime: 1
   materials:
     CreditCounterfeit: 40000
+
+- type: latheRecipe
+  categories: [SyndicateTradingConsoleFirearmsWeapons, SyndicateTradingConsoleLaserArmsWeapons]
+  id: EnergyShieldSTrade
+  result: EnergyShield
+  completetime: 1
+  materials:
+    CreditCounterfeit: 24000
 
 - type: latheRecipe
   categories: [SyndicateTradingConsoleFirearmsWeapons, SyndicateTradingConsoleLaserArmsWeapons]

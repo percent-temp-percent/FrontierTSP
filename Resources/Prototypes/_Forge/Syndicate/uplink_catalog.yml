@@ -393,6 +393,16 @@
   - UplinkExplosivesSmugger
 
 - type: listing
+  id: SmuggerUplinkStickyBomb
+  name: uplink-StickyBomb-name
+  description: uplink-StickyBomb-desc
+  productEntity: StickyBomb
+  cost:
+    TelecrystalDamaged: 8
+  categories:
+  - UplinkExplosivesSmugger
+
+- type: listing
   id: SmuggerUplinkDuffelSyndicateC4tBundle
   name: uplink-c4-duffel-name
   description: uplink-c4-duffel-desc

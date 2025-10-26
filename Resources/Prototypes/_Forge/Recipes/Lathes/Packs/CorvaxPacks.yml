@@ -158,6 +158,7 @@
   - WeaponRifleDaggerSTrade
   - NFWeaponEnergyRifleTemperatureSTrade
   - NFWeaponPistolAnaconda45Recipe
+  - EnergyShieldSTrade
 
 - type: latheRecipePack
   id: SyndicateTradingConsoleArmor
@@ -209,6 +210,7 @@
   - AirGrenadeSTrade
   - ExGrenadeSTrade
   - HolyHandGrenadeSTrade
+  - StickyBombSyndicateInter
 
 - type: latheRecipePack
   id: SyndicateTradingConsoleMed

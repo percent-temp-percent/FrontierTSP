@@ -1,0 +1,44 @@
+- type: entity
+  name: sticky bomb
+  description: An extremely sticky bomb that can be attached to anything.
+  parent: [BasePlasticExplosive, BaseSyndicateContraband]
+  id: StickyBomb
+  components:
+  - type: Item
+    size: Tiny
+  - type: Sprite
+    sprite: _Wega/Objects/Weapons/Bombs/stickybomb.rsi
+    state: icon
+    layers:
+    - state: icon
+      map: ["base"]
+  - type: TriggerOnUse
+    keyOut: startTimer
+  - type: TimerTrigger
+    keysIn:
+    - startTimer
+    # use the default trigger key so it can activate any inserted payload
+    keyOut: trigger
+    delay: 10
+    delayOptions: [10, 30, 60, 120]
+    initialBeepDelay: 0
+    beepSound:
+      path: /Audio/Machines/Nuke/general_beep.ogg
+      params:
+        volume: -2
+  - type: DeviceLinkSink
+    ports:
+      - Timer
+  - type: Explosive
+    explosionType: Default 
+    totalIntensity: 60
+    intensitySlope: 10
+    maxIntensity: 30
+    canCreateVacuum: false
+  - type: ExplodeOnTrigger
+  - type: Sticky
+    stickDelay: 1
+    unstickDelay: 3
+    blacklist:
+      components:
+      - Sticky
