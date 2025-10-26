@@ -65,6 +65,7 @@
       map: ["enum.MaterialStorageVisualLayers.Inserting"]
     - state: panel
       map: ["enum.WiresVisualLayers.MaintenancePanel"]
+  - type: OreSiloClient
   - type: Machine
     board: TechFabInterdyneMachineCircuitboard
   - type: Lathe

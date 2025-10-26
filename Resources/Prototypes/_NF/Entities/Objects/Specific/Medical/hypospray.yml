@@ -50,6 +50,8 @@
     - state: hypo_fill1
       map: ["enum.SolutionContainerLayers.Fill"]
       visible: false
+  - type: UseDelay
+    delay: 1.5
   - type: Item
     sprite: _NF/Objects/Specific/Medical/hypobrigmedic.rsi
 
@@ -67,6 +69,8 @@
     - state: hypo_fill1
       map: ["enum.SolutionContainerLayers.Fill"]
       visible: false
+  - type: UseDelay
+    delay: 0.5
   - type: Item
     sprite: _NF/Objects/Specific/Medical/hypominilimitededition.rsi
 
