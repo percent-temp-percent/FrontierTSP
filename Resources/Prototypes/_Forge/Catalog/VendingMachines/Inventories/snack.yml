@@ -37,7 +37,7 @@
     FoodPSB: 4294967295 # Infinite
     DrinkColaCan: 4294967295 # Infinite
     DrinkColaBottleFull: 4294967295 # Infinite
-    BoxFoodPizzaDonkpocketSyndi: 4294967295 # Infinite
-    BoxFoodPizzaArnoldSyndi: 4294967295 # Infinite
-    BoxFoodPizzaSassysageSyndi: 4294967295 # Infinite
+    BoxFoodPizzaSyndiDonkpocketSyndi: 4294967295 # Infinite
+    BoxFoodSyndiPizzaArnoldSyndi: 4294967295 # Infinite
+    BoxFoodSyndiPizzaSassysageSyndi: 4294967295 # Infinite
     BoxFoodSyndiPizzaSyndi: 4294967295 # Infinite

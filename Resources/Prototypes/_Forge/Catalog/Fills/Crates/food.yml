@@ -9,9 +9,7 @@
     - id: FoodPizzaDonkpocket
       amount: 1
     - id: KnifePlastic
-      prob: 0.95
-    - id: DrinkNukieCan
-      prob: 0.05
+      amount: 1
 
 - type: entity
   id: BoxFoodPizzaArnold
@@ -24,9 +22,7 @@
     - id: FoodPizzaArnold
       amount: 1
     - id: KnifePlastic
-      prob: 0.95
-    - id: DrinkNukieCan
-      prob: 0.05
+      amount: 1
 
 - type: entity
   id: BoxFoodPizzaSassysage
@@ -39,9 +35,7 @@
     - id: FoodPizzaSassysage
       amount: 1
     - id: KnifePlastic
-      prob: 0.95
-    - id: DrinkNukieCan
-      prob: 0.05
+      amount: 1
 
 - type: entity
   id: BoxFoodPizzaWorldpeas
@@ -54,9 +48,7 @@
     - id: FoodPizzaWorldpeas
       amount: 1
     - id: KnifePlastic
-      prob: 0.95
-    - id: DrinkNukieCan
-      prob: 0.05
+      amount: 1
 
 - type: entity
   id: BoxFoodPizzaSyndiDonkpocketSyndi
@@ -68,9 +60,7 @@
     - id: FoodPizzaDonkpocket
       amount: 1
     - id: KnifePlastic
-      prob: 0.95
-    - id: DrinkNukieCan
-      prob: 0.05
+      amount: 1
 
 - type: entity
   id: BoxFoodSyndiPizzaArnoldSyndi
@@ -82,9 +72,7 @@
     - id: FoodPizzaArnold
       amount: 1
     - id: KnifePlastic
-      prob: 0.95
-    - id: DrinkNukieCan
-      prob: 0.05
+      amount: 1
 
 - type: entity
   id: BoxFoodSyndiPizzaSassysageSyndi
@@ -96,9 +84,7 @@
     - id: FoodPizzaSassysage
       amount: 1
     - id: KnifePlastic
-      prob: 0.95
-    - id: DrinkNukieCan
-      prob: 0.05
+      amount: 1
 
 - type: entity
   id: BoxFoodSyndiPizzaSyndi
@@ -110,6 +96,4 @@
     - id: FoodPizzaSyndi
       amount: 1
     - id: KnifePlastic
-      prob: 0.95
-    - id: DrinkNukieCan
-      prob: 0.05
+      amount: 1

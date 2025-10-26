@@ -319,17 +319,7 @@
         - Sheriff
 
 - type: listing
-  id: UplinkStickyBomb
-  name:  uplink-security-StickyBomb-name
-  description: uplink-security-StickyBomb-desc
-  productEntity: StickyBomb
-  cost:
-    FrontierUplinkCoin: 6
-  categories:
-    - UplinkSecurityUtility
-
-- type: listing
-  id: UplinkStickyBomb
+  id: UplinkC4
   name:  uplink-security-C4-name
   description: uplink-security-C4-desc
   productEntity: C4

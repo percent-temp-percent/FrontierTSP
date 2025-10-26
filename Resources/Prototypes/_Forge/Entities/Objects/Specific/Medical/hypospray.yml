@@ -1,7 +1,7 @@
 - type: entity
   name: гипоспрей ДСБФ
   parent: [BaseItem, BaseC2ContrabandUnredeemable]
-  description: Using reverse engineered designs from NT, Cybersun produced these in limited quantities for Gorlex Marauder operatives.
+  description: Стерильный инъектор для быстрого введения лекарств пациентам.
   id: NfsdHypo
   components:
   - type: Sprite
@@ -35,7 +35,7 @@
 - type: entity
   name: гипоспрей врача NT-MED-74
   parent: [BaseItem, BaseC2ContrabandUnredeemable]
-  description: Using reverse engineered designs from NT, Cybersun produced these in limited quantities for Gorlex Marauder operatives.
+  description: Стерильный инъектор для быстрого введения лекарств пациентам.
   id: MedHypo
   components:
   - type: Sprite

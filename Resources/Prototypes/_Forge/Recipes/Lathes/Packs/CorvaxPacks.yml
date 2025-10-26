@@ -210,7 +210,6 @@
   - AirGrenadeSTrade
   - ExGrenadeSTrade
   - HolyHandGrenadeSTrade
-  - StickyBombSyndicateInter
 
 - type: latheRecipePack
   id: SyndicateTradingConsoleMed

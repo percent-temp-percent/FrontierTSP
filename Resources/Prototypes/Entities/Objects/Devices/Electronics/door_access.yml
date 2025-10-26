@@ -259,7 +259,7 @@
   suffix: Chemistry, Locked
   components:
   - type: AccessReader
-    access: [["Chemistry"]]
+    access: [["Chemistry"], ["Medical"]] # Forge-Change
 
 - type: entity
   parent: DoorElectronics
