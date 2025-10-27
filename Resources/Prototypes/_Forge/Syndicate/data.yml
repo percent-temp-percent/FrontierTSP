@@ -87,6 +87,7 @@
   components:
   - type: Sprite
     sprite: Forge/Structures/Specific/Syndicate/syndicatedataconventor.rsi
+    drawdepth: LargeObjects
     snapCardinals: true
     layers:
     - state: server-nopower
@@ -113,9 +114,9 @@
           bounds: "-0.4,-0.4,0.4,0.4"
         density: 190
         mask:
-        - MachineMask
+        - TabletopMachineMask
         layer:
-        - MachineLayer
+        - TabletopMachineLayer
   - type: Destructible
     thresholds:
     - trigger:

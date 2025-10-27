@@ -266,7 +266,7 @@
   result: ClothingBackpackDuffelSyndicateEliteHardsuitBundle
   completetime: 1
   materials:
-    CreditCounterfeit: 32000
+    CreditCounterfeit: 60000
 
 - type: latheRecipe
   id: ClothingBackpackDuffelSyndicateHardsuitBundleRecipe
@@ -739,6 +739,14 @@
   completetime: 1
   materials:
     CreditCounterfeit: 10000
+
+- type: latheRecipe
+  categories: [SyndicateTradingConsoleFirearmsWeapons, SyndicateTradingConsoleMeleeArmor]
+  id: ToolboxSyndicateAltFilledSTrade
+  result: ToolboxSyndicateAltFilled
+  completetime: 1
+  materials:
+    CreditCounterfeit: 30000
 
 - type: latheRecipe
   categories: [SyndicateTradingConsoleFirearmsWeapons, SyndicateTradingConsoleMeleeArmor]

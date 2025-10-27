@@ -1,5 +1,5 @@
 - type: entity
-  parent: [BaseC3SyndicateContraband, NFClothingBeltStorageBase, ContentsExplosionResistanceBase]
+  parent: [BaseC2ContrabandDisallowSecs, NFClothingBeltStorageBase, ContentsExplosionResistanceBase]
   id: ClothingBeltMilitaryWebbingSyndicate
   name: РПС синдиката
   description: Ременно-плечевая система тактических ремней.
@@ -24,8 +24,6 @@
     sprite: Forge/Clothing/Belt/syndicatewebbingshturm.rsi
   - type: Clothing
     sprite: Forge/Clothing/Belt/syndicatewebbingshturm.rsi
-  - type: ExplosionResistance
-    damageCoefficient: 0.1
 
 - type: entity
   parent: ClothingBeltMilitaryWebbingSyndicate
@@ -37,8 +35,6 @@
     sprite: Forge/Clothing/Belt/syndicatewebbingmed.rsi
   - type: Clothing
     sprite: Forge/Clothing/Belt/syndicatewebbingmed.rsi
-  - type: ExplosionResistance
-    damageCoefficient: 0.1
 
 - type: entity
   parent: ClothingBeltMilitaryWebbingSyndicate
@@ -50,8 +46,6 @@
     sprite: Forge/Clothing/Belt/syndicatewebbingeng.rsi
   - type: Clothing
     sprite: Forge/Clothing/Belt/syndicatewebbingeng.rsi
-  - type: ExplosionResistance
-    damageCoefficient: 0.1
 
 - type: entity
   parent: ClothingBeltMilitaryWebbingSyndicate
@@ -63,5 +57,3 @@
     sprite: Forge/Clothing/Belt/syndicatewebbingcom.rsi
   - type: Clothing
     sprite: Forge/Clothing/Belt/syndicatewebbingcom.rsi
-  - type: ExplosionResistance
-    damageCoefficient: 0.1

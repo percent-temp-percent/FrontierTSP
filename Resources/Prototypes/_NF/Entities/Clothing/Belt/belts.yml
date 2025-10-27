@@ -72,8 +72,12 @@
     sprite: _NF/Clothing/Belt/nfsd_belt.rsi
   - type: Clothing
     sprite: _NF/Clothing/Belt/nfsd_belt.rsi
-  - type: ExplosionResistance # Corvax-Forge
+  # Corvax-Forge
+  - type: ExplosionResistance
     damageCoefficient: 0.1
+  - type: Storage
+    grid:
+    - 0,0,10,1
 
 - type: entity
   parent: [ BaseC2ContrabandUnredeemable, ClothingBeltSecurityWebbing, ContentsExplosionResistanceBase ]
@@ -86,8 +90,12 @@
   - type: Clothing
     sprite: _NF/Clothing/Belt/nfsd_webbing.rsi
   - type: CatWearable
-  - type: ExplosionResistance # Corvax-Forge
+  # Corvax-Forge
+  - type: ExplosionResistance
     damageCoefficient: 0.1
+  - type: Storage
+    grid:
+    - 0,0,10,1
 
 # Ported from Nyano
 - type: entity

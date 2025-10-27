@@ -44,7 +44,7 @@
     isEquipment: true
 
 - type: entity
-  parent: [ClothingEyesNightVisionGoggles, ShowSecurityIcons, BaseC2ContrabandUnredeemable]
+  parent: [ClothingEyesNightVisionGoggles, ShowSecurityIcons, BaseC3SyndicateContraband]
   id: NFClothingEyesNightVisionGoggleSyndicate
   name: night vision goggles
   description: An advanced heads-up display which provides id data and vision in complete darkness.
@@ -63,7 +63,7 @@
     isEquipment: true
 
 - type: entity
-  parent: [ClothingEyesNightVisionGoggles, ShowSecurityIcons, BaseC2ContrabandUnredeemable]
+  parent: [ClothingEyesNightVisionGoggles, ShowSecurityIcons, BaseC3PirateContraband]
   id: NFClothingEyesNightVisionGogglePirate
   name: night vision goggles
   description: An advanced heads-up display which provides id data and vision in complete darkness.
@@ -130,7 +130,7 @@
     isEquipment: true
 
 - type: entity
-  parent: [ClothingEyesNightVisionGoggles, ShowSecurityIcons]
+  parent: [ClothingEyesNightVisionGoggles, ShowSecurityIcons, BaseC3SyndicateContraband]
   id: NFClothingEyesNightVisionGoggleChameleonNuke
   name: night vision goggles
   description: Now you can see in the dark!
@@ -157,7 +157,7 @@
     isEquipment: true
 
 - type: entity
-  parent: [ClothingEyesNightVisionGoggles, ShowSecurityIcons, ShowMedicalIcons, BaseC2ContrabandUnredeemable]
+  parent: [ClothingEyesNightVisionGoggles, ShowSecurityIcons, ShowMedicalIcons, BaseC3Contraband]
   id: NFClothingEyesNightVisionGoggleContractor
   name: прибор ночного видения DCN™
   description: Усовершенствованный сенсорный дисплей, который выдает идентификационные данные и обеспечивает видимость в полной темноте.
