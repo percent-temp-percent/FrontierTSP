@@ -26,6 +26,9 @@
     sprite: Forge/Clothing/Belt/nfsd_engi_belt.rsi
   - type: ExplosionResistance
     damageCoefficient: 0.1
+  - type: Storage
+    grid:
+    - 0,0,10,1
 
 # Filled версия
 - type: entity

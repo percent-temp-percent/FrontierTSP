@@ -1372,6 +1372,19 @@
   - UplinkDisruptionSmugger
 
 - type: listing
+  id: SmuggerUplinkToolboxAlt
+  name: Ящик продвинутых инструментов
+  description: Продвинутый набор улучшенных инструментов. Хранит в себе челюсти жизни Синдиката, электродрель Синдиката, сварочный аппарат Синдиката, мультитул Синдиката, боевые перчатки и противогаз Синдиката.
+  productEntity: ToolboxSyndicateAltFilled
+  discountCategory: rareDiscounts
+  discountDownTo:
+    TelecrystalDamaged: 10
+  cost:
+    TelecrystalDamaged: 15
+  categories:
+  - UplinkDisruptionSmugger
+
+- type: listing
   id: SmuggerUplinkToolbox
   name: uplink-toolbox-name
   description: uplink-toolbox-desc

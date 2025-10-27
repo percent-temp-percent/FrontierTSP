@@ -1,6 +1,6 @@
 - type: entity
   name: ящик продвинутых инструментов DCN™
-  parent: [ToolboxBase, BaseC1Contraband]
+  parent: [ToolboxBase, BaseC3Contraband]
   id: ToolboxContractor
   description: Зловеще выглядящий ящик для инструментов, наполненный лучшими инструментами.
   components:
@@ -154,7 +154,7 @@
   name: мультитул DCN™
   parent: [Multitool, BaseC3Contraband]
   id: MultitoolContractor
-  description: An advanced tool to copy, store, and send electrical pulses and signals through wires and machines.
+  description: Современный инструмент для копирования, хранения и передачи электрических импульсов и сигналов по проводам и машинам.
   components:
   - type: EmitSoundOnLand
     sound:
