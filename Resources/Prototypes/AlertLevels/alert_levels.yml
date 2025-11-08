@@ -6,8 +6,6 @@
       announcement: alert-level-green-announcement
       sound:
         path: /Audio/_Forge/Announcements/Alerts/alert-green.ogg # Corvax-Forge
-        params:
-          volume: -1
       color: Green
       emergencyLightColor: LawnGreen
       shuttleTime: 600
@@ -15,8 +13,6 @@
       announcement: alert-level-blue-announcement
       sound:
         path: /Audio/_Forge/Announcements/Alerts/alert-blue.ogg # Corvax-Forge
-        params:
-          volume: -1
       color: DodgerBlue
       forceEnableEmergencyLights: true
       emergencyLightColor: DodgerBlue
@@ -25,8 +21,6 @@
       announcement: alert-level-violet-announcement
       sound:
         path: /Audio/_Forge/Announcements/Alerts/alert-violet.ogg # Corvax-Forge
-        params:
-          volume: -1
       color: Violet
       emergencyLightColor: Violet
       forceEnableEmergencyLights: true
@@ -43,8 +37,6 @@
       announcement: alert-level-red-announcement
       sound:
         path: /Audio/_Forge/Announcements/Alerts/alert-red.ogg # Corvax-Forge
-        params:
-          volume: -1
       color: Red
       emergencyLightColor: Red
       forceEnableEmergencyLights: true
@@ -54,8 +46,6 @@
       selectable: false
       sound:
         path: /Audio/_Forge/Announcements/Alerts/alert-gamma.ogg # Corvax-Forge
-        params:
-          volume: -1
       disableSelection: true
       color: PaleVioletRed
       emergencyLightColor: PaleVioletRed
@@ -65,8 +55,6 @@
       selectable: false
       sound:
         path: /Audio/_Forge/Announcements/Alerts/alert-delta.ogg # Corvax-Forge
-        params:
-          volume: -1
       disableSelection: true
       color: DarkRed
       emergencyLightColor: Orange
