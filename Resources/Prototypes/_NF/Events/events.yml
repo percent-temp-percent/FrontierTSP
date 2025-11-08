@@ -37,8 +37,6 @@
     endAnnouncement: station-event-power-grid-check-nf-end-announcement # Frontier: add nf-
     startAudio:
       path: /Audio/_Forge/Announcements/Events/oleg_power_off.ogg # Corvax-Frontier
-      params:
-        volume: -1
   #  endAudio:
   #    path: /Audio/_NF/Announcements/PocketSizedAndy/andy1_power_onnf.ogg  ##PowerGridCheckRule handles end audio, leaving this incase that breaks
   #    params:
@@ -59,13 +57,9 @@
     startAnnouncement: station-event-solar-flare-nf-start-announcement
     startAudio: # Corvax-Forge
       path: /Audio/_Forge/Announcements/Events/oleg_solar_flare_start.ogg # Corvax-Frontier
-      params:
-        volume: -1
     endAnnouncement: station-event-solar-flare-nf-end-announcement
     endAudio: # Corvax-Forge
       path: /Audio/_Forge/Announcements/Events/oleg_solar_flare_end.ogg # Corvax-Frontier
-      params:
-        volume: -1
     duration: 120
     maxDuration: 240
   - type: SolarFlareRule
@@ -81,8 +75,6 @@
     startAnnouncement: station-event-vent-clog-nf-start-announcement # Frontier: add nf-
     startAudio:
       path: /Audio/_Forge/Announcements/Events/oleg_vent_clog.ogg # Corvax-Frontier
-      params:
-        volume: -1
     earliestStart: 15
     minimumPlayers: 15
     weight: 5
