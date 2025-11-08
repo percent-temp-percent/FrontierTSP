@@ -200,6 +200,8 @@
   placement:
     mode: AlignTileAny
   components:
+  - type: Machine
+    board: ThrusterMediumNfsdMachineCircuitboard
   - type: Destructible
     thresholds:
     - trigger:
@@ -265,6 +267,8 @@
   placement:
     mode: AlignTileAny
   components:
+  - type: Machine
+    board: ThrusterMediumSyndiMachineCircuitboard
   - type: Destructible
     thresholds:
     - trigger:
@@ -330,6 +334,8 @@
   placement:
     mode: AlignTileAny
   components:
+  - type: Machine
+    board: ThrusterMediumMercMachineCircuitboard
   - type: Destructible
     thresholds:
     - trigger:
@@ -397,7 +403,7 @@
     mode: AlignTileAny
   components:
   - type: Machine
-    board: ThrusterMachineCircuitboard
+    board: ThrusterMLongMachineCircuitboard
   - type: Destructible
     thresholds:
     - trigger:
@@ -463,6 +469,8 @@
   placement:
     mode: AlignTileAny
   components:
+  - type: Machine
+    board: ThrusterMLongNfsdMachineCircuitboard
   - type: Destructible
     thresholds:
     - trigger:
@@ -528,6 +536,8 @@
   placement:
     mode: AlignTileAny
   components:
+  - type: Machine
+    board: ThrusterMLongMercMachineCircuitboard
   - type: Destructible
     thresholds:
     - trigger:
@@ -593,6 +603,8 @@
   placement:
     mode: AlignTileAny
   components:
+  - type: Machine
+    board: ThrusterMLongSyndiMachineCircuitboard
   - type: Destructible
     thresholds:
     - trigger:
@@ -659,6 +671,8 @@
   placement:
     mode: AlignTileAny
   components:
+  - type: Machine
+    board: ThrusterBigMachineCircuitboard
   - type: Destructible
     thresholds:
     - trigger:
@@ -724,6 +738,8 @@
   placement:
     mode: AlignTileAny
   components:
+  - type: Machine
+    board: ThrusterBigNfsdMachineCircuitboard
   - type: Destructible
     thresholds:
     - trigger:
@@ -789,6 +805,8 @@
   placement:
     mode: AlignTileAny
   components:
+  - type: Machine
+    board: ThrusterBigSyndiMachineCircuitboard
   - type: Destructible
     thresholds:
     - trigger:
@@ -854,6 +872,8 @@
   placement:
     mode: AlignTileAny
   components:
+  - type: Machine
+    board: ThrusterBigMercMachineCircuitboard
   - type: Destructible
     thresholds:
     - trigger:
