@@ -150,6 +150,22 @@
   - type: Item
     size: Normal
 
+# DEFAULT THRUSTER
+- type: entity
+  id: ThrusterCentcomMachineCircuitboard
+  parent: BaseMachineCircuitboard
+  name: ракетный двигатель ЦентКом (машинная плата)
+  components:
+  - type: Sprite
+    state: supply
+  - type: MachineBoard
+    prototype: ThrusterCentCom
+    requirements:
+      Capacitor: 3
+    stackRequirements:
+      Steel: 5
+
+# MEDIUM THRUSTERS
 - type: entity
   id: ThrusterMediumMachineCircuitboard
   parent: BaseMachineCircuitboard
@@ -211,6 +227,22 @@
       Cable: 20
 
 - type: entity
+  id: ThrusterMediumCentcomMachineCircuitboard
+  parent: BaseMachineCircuitboard
+  name: средний ракетный двигатель ЦентКом (машинная плата)
+  components:
+  - type: Sprite
+    state: supply
+  - type: MachineBoard
+    prototype: ThrusterMediumCentcom
+    requirements:
+      Capacitor: 16
+    stackRequirements:
+      Steel: 40
+      Cable: 20
+
+# LONG THRUSTERS
+- type: entity
   id: ThrusterMLongMachineCircuitboard
   parent: BaseMachineCircuitboard
   name: длинный ракетный двигатель (машинная плата)
@@ -271,6 +303,22 @@
       Cable: 20
 
 - type: entity
+  id: ThrusterMLongCentcomMachineCircuitboard
+  parent: BaseMachineCircuitboard
+  name: длинный ракетный двигатель ЦентКом (машинная плата)
+  components:
+  - type: Sprite
+    state: supply
+  - type: MachineBoard
+    prototype: ThrusterMediumLongCentCom
+    requirements:
+      Capacitor: 16
+    stackRequirements:
+      Steel: 30
+      Cable: 20
+
+# BIG THRUSTERS
+- type: entity
   id: ThrusterBigMachineCircuitboard
   parent: BaseMachineCircuitboard
   name: большой ракетный двигатель (машинная плата)
@@ -324,6 +372,21 @@
     state: supply
   - type: MachineBoard
     prototype: ThrusterBigMerc
+    requirements:
+      Capacitor: 40
+    stackRequirements:
+      Steel: 120
+      Cable: 60
+
+- type: entity
+  id: ThrusterBigCentComMachineCircuitboard
+  parent: BaseMachineCircuitboard
+  name: большой ракетный двигатель ЦентКом (машинная плата)
+  components:
+  - type: Sprite
+    state: supply
+  - type: MachineBoard
+    prototype: ThrusterBigCentCom
     requirements:
       Capacitor: 40
     stackRequirements:
