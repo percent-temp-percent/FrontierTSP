@@ -4,7 +4,6 @@
     "x": 96,
     "y": 96
   },
-  
   "license": "CC-BY-SA-3.0",
   "copyright": "base and thrust by ledniky, (discord:726481288713732147), thrust_burn_unshaded from thruster.rsi",
   "states": [
@@ -26,6 +25,26 @@
     },
     {
       "name": "medirenegat",
+      "directions": 4
+    },
+    {
+      "name": "iconmedibase",
+      "directions": 4
+    },
+    {
+      "name": "iconmedimerc",
+      "directions": 4
+    },
+    {
+      "name": "iconmedinfsd",
+      "directions": 4
+    },
+    {
+      "name": "iconmedirenegat",
+      "directions": 4
+    },
+    {
+      "name": "iconmedisyndi",
       "directions": 4
     },
     {

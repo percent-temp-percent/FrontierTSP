@@ -16,6 +16,18 @@
       "name": "icon"
     },
     {
+      "name": "iconbigmerc"
+    },
+    {
+      "name": "iconbignfsd"
+    },
+    {
+      "name": "iconbigrenegat"
+    },
+    {
+      "name": "iconbigsyndi"
+    },
+    {
       "name": "thrust",
       "directions": 4
     },

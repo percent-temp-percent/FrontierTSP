@@ -28,6 +28,26 @@
       "directions": 4
     },
     {
+      "name": "iconmediumbase",
+      "directions": 4
+    },
+    {
+      "name": "iconmediummerc",
+      "directions": 4
+    },
+    {
+      "name": "iconmediumnfsd",
+      "directions": 4
+    },
+    {
+      "name": "iconmediumrenegat",
+      "directions": 4
+    },
+    {
+      "name": "iconmediumsyndi",
+      "directions": 4
+    },
+    {
       "name": "thrust",
       "directions": 4
     },
